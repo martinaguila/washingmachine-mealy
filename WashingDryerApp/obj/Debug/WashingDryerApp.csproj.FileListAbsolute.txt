@@ -1,0 +1,10 @@
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\bin\Debug\WashingDryerApp.exe.config
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\bin\Debug\WashingDryerApp.exe
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\bin\Debug\WashingDryerApp.pdb
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.csproj.AssemblyReference.cache
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.Form1.resources
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.Properties.Resources.resources
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.csproj.GenerateResource.cache
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.csproj.CoreCompileInputs.cache
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.exe
+C:\Users\martin aguila\source\repos\WashingDryerApp\WashingDryerApp\obj\Debug\WashingDryerApp.pdb
